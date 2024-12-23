@@ -8,7 +8,7 @@ About Me
 I am a fresher web developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js) with a solid understanding of Java, SQL, and web development basics like HTML and CSS. My passion lies in building creative and efficient solutions that solve real-world problems while enhancing user experiences.
 
 
-Let’s connect and collaborate on exciting projects or share ideas to drive innovation in web development!      
-     
+Let’s connect and collaborate on exciting projects or share ideas to drive innovation in web development!          
+        
 
      
